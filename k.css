@@ -1,0 +1,288 @@
+h2 {color:green;
+   position:absolute;
+   top :100px;
+   font-size:40px;
+   left:10px;}
+
+p {font-family:calibre;
+   colorl:white;
+   font-size:20px;}
+   
+  
+body {background-color :#b8e7ed;}
+#name{
+		font-family:allan;
+		font-size:60px;
+		color:#910791;
+		
+		position: absolute;
+		top:350px;
+		left:200px;
+	}
+	#name:hover
+	{
+		-webkit-transform:scale(1.3);
+		-ms-transform: scale(1.3);
+		transform: scale(1.3);
+	}
+	
+	
+	h1{
+		font-size:50px;
+		opacity: 0.5;
+		font-family: 'Sofia';
+		top:200px;
+	}
+	
+	
+	#insti{
+		font-family:allan;
+		font-size:35px;
+		color:#993a49;
+		
+		position: absolute;
+		top:500px;
+		left:80px;
+		text-align:center;
+	}
+	#insti:hover
+	{
+		-webkit-transform:scale(1.2);
+		-ms-transform: scale(1.2);
+		transform: scale(1.2);
+	}
+	
+		
+	
+	#image{
+	position:absolute;
+	top:200px;
+	right:10px;
+	}
+
+#contacts{
+ position : absolute;
+ top:150px;
+left:50px;
+color:red;
+font-size:40px;
+font-family:sofia;
+
+
+}
+	
+	.fb{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:270px;
+		left:50px;
+	}
+	.fb:hover
+	{
+		-webkit-transform:scale(1.2);
+		-ms-transform: scale(1.2);
+		transform: scale(1.2);
+	}
+		
+    .gm{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:360px;
+		left:50px;
+	}
+	.gm:hover
+	{
+		-webkit-transform:scale(1.2);
+		-ms-transform: scale(1.2);
+		transform: scale(1.2);
+	}
+	.wp{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:450px;
+		left:50px;
+	}
+	.wp:hover
+	{
+		-webkit-transform:scale(1.2);
+		-ms-transform: scale(1.2);
+		transform: scale(1.2);
+	}
+	.ig{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:540px;
+		left:50px;
+	}
+	.ig:hover
+	{
+		-webkit-transform:scale(1.2);
+		-ms-transform: scale(1.2);
+		transform: scale(1.2);
+	}
+	
+	.header{
+	width: 100%;
+	padding: 15px;
+	background: black;
+	position: fixed;
+	top: 0;
+}
+
+.header::after{
+	content: " ";
+	clear: both;
+	display: block;
+	visibility: none;
+}
+
+.list{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.list1{
+	float: right;
+}
+
+.list1 ul li{
+	display: inline-block;
+}
+
+.list1 ul li a{
+	margin:45px;
+	text-decoration: none;
+	color: white;
+}
+
+.list1 ul li a:hover{
+	color: #CCFF00;
+	
+	
+
+}
+.heading{
+ font-size:20px;
+ position:absolute;
+ top:200px;
+ left:80px;
+ 
+ 
+ 
+ }
+ #photo{
+ position:absolute;
+	top:200px;
+	right:10px;
+ 
+ }
+ #intro
+ {
+ 		font-family:allan;
+		font-size:20px;
+		color:#210291;
+		
+		position: absolute;
+		top:250px;
+		left:100px;
+
+ }
+ 
+#intro:hover
+	{
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+ #ac
+ {
+ 		font-family:allan;
+		font-size:20px;
+		color:#210291;
+		
+		position: absolute;
+		top:250px;
+		left:100px;
+
+ }
+ 
+#ac:hover
+	{
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+	.hobbies1 ul li.dance:hover{
+	<img src="d.jpg" height="200" />;
+}
+.hobbies1 ul li.code:hover{
+	background-image: url('c.jpg');
+}
+.hobbies2 ul li .ball:hover{
+	background-image: url('b.jpg');    
+}
+.hobbies2 ul li.sketch:hover{
+	background-image: url('sk.jpg');   
+}
+
+.dance
+ {
+ 		font-family:allan;
+		font-size:20px;
+		color:#210291;
+		
+		position: absolute;
+		top:250px;
+		left:100px;
+
+ }
+ 
+	 .code
+ {
+ 		font-family:allan;
+		font-size:20px;
+		color:#210291;
+		
+		position: absolute;
+		top:250px;
+		left:400px;
+
+ }
+ 
+	 .ball
+ {
+ 		font-family:allan;
+		font-size:20px;
+		color:#210291;
+		
+		position: absolute;
+		top:400px;
+		left:100px;
+
+ }
+ 
+
+	 .sketch
+ {
+ 		font-family:allan;
+		font-size:20px;
+		color:#210291;
+		
+		position: absolute;
+		top:400px;
+		left:400px;
+
+ }
+ 
